@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetMapping", "AlphabetMapping.csproj", "{0410928D-F8F3-4712-A96F-CA1B84D95663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0410928D-F8F3-4712-A96F-CA1B84D95663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0410928D-F8F3-4712-A96F-CA1B84D95663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0410928D-F8F3-4712-A96F-CA1B84D95663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0410928D-F8F3-4712-A96F-CA1B84D95663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE09D450-19B6-4129-B629-589266515E5D}
+	EndGlobalSection
+EndGlobal
